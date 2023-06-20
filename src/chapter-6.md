@@ -1,4 +1,4 @@
-Chapter: Implementation of AI-Based Supply Chain Visibility
+Implementation of AI-Based Supply Chain Visibility
 ===========================================================
 
 Implementing AI-based supply chain visibility solutions can be challenging, but it also offers significant potential for enhancing transparency, traceability, and efficiency in supply chain management. In this chapter, we will provide an overview of some of the key considerations involved in implementing AI-based supply chain visibility solutions.

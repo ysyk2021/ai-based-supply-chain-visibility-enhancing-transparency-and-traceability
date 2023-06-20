@@ -1,4 +1,4 @@
-Chapter: Data Collection and Analysis for Supply Chain Visibility
+Data Collection and Analysis for Supply Chain Visibility
 =================================================================
 
 Data collection and analysis are critical components of supply chain visibility. By collecting and analyzing data from various sources, businesses can gain real-time insights into their operations, identify potential issues, and make more informed decisions. In this chapter, we will provide an overview of some of the key data sources for supply chain visibility.

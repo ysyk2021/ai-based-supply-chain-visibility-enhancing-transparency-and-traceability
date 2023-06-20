@@ -1,4 +1,4 @@
-Chapter: Artificial Intelligence in Supply Chain Visibility
+Artificial Intelligence in Supply Chain Visibility
 ===========================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach supply chain visibility. In this chapter, we will explore the types of AI used in supply chain visibility, their advantages and limitations, and provide case studies on the use of AI in supply chain visibility.

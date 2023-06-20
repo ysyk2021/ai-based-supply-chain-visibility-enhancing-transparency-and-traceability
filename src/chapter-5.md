@@ -1,4 +1,4 @@
-Chapter: AI-Based Supply Chain Visibility Techniques and Strategies
+AI-Based Supply Chain Visibility Techniques and Strategies
 ===================================================================
 
 AI-based supply chain visibility is rapidly evolving, with new techniques and strategies emerging all the time. In this chapter, we will provide an overview of some of the key AI-based supply chain visibility techniques and strategies that businesses can leverage to improve their supply chain operations.
