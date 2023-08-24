@@ -1,5 +1,3 @@
-Real-Time Monitoring and Tracking
-======================================================================================================
 
 Real-time monitoring and tracking is a critical component of supply chain visibility. In this chapter, we will explore how AI-based solutions can enable real-time monitoring and tracking of goods and information as they move through the supply chain.
 

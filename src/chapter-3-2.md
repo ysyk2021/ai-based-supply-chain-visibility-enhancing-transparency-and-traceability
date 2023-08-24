@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Supply Chain Visibility
-========================================================================================================================
 
 Artificial intelligence (AI) is increasingly being applied to supply chain visibility to enhance transparency, automate routine tasks, and make more informed decisions. In this chapter, we will explore some of the advantages and limitations of AI in supply chain visibility.
 

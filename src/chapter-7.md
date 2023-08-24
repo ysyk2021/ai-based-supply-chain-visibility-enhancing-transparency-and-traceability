@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=========================================
 
 AI-based supply chain visibility is a rapidly evolving field, with emerging trends and technologies that offer significant potential for enhancing transparency and traceability. However, there are also challenges associated with implementing and scaling up these solutions. In this chapter, we will explore some of the emerging trends and technologies in AI-based supply chain visibility, as well as the opportunities and challenges for scaling up these solutions.
 

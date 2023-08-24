@@ -1,5 +1,3 @@
-The Need for AI-Based Supply Chain Visibility
-====================================================================
 
 Supply chain management is a complex and dynamic process that involves the coordination of multiple stakeholders, including suppliers, manufacturers, distributors, and retailers. To effectively manage their supply chains, businesses require real-time insights into their operations, enabling them to identify inefficiencies, respond quickly to disruptions, and optimize inventory levels. In this chapter, we will explore the need for AI-based supply chain visibility.
 

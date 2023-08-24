@@ -1,5 +1,3 @@
-Traditional Approaches to Supply Chain Visibility
-=================================================================================================
 
 Traditional approaches to supply chain visibility involve tracking the movement of goods and information through manual processes, spreadsheets, and legacy systems. In this chapter, we will explore some of the key traditional approaches to supply chain visibility.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 In conclusion, traditional approaches to supply chain visibility involve manual processes, spreadsheets, and legacy systems. While these approaches may be familiar to businesses and easy to implement, they have several limitations, including a lack of real-time data, siloed systems, limited data analysis capabilities, and high costs. By embracing new technologies such as AI-based supply chain visibility solutions, businesses can overcome these limitations and achieve greater transparency, traceability, and efficiency in their supply chain operations.
-
 

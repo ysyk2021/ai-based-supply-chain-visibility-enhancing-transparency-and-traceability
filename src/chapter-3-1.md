@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Supply Chain Visibility
-===============================================================================================================================================
 
 Artificial intelligence (AI) is increasingly being applied to supply chain visibility to enhance transparency, automate routine tasks, and make more informed decisions. There are different types of AI that can be used for this purpose. In this chapter, we will explore the different types of AI and their applications in supply chain visibility.
 

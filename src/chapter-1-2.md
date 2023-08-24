@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Supply Chain Management
-==========================================================================================================
 
 Artificial intelligence (AI) is revolutionizing various industries, including supply chain management. AI-based solutions are being increasingly applied to enhance visibility, automate routine tasks, and make more informed decisions. In this chapter, we will provide an overview of AI and its applications in supply chain management.
 

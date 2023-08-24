@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling Up AI-Based Supply Chain Visibility
-======================================================================================================================
 
 As businesses increasingly turn to AI-based solutions for supply chain visibility, there are many opportunities and challenges associated with scaling up these solutions. In this chapter, we will explore some of the key opportunities and challenges in scaling up AI-based supply chain visibility.
 

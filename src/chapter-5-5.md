@@ -1,5 +1,3 @@
-Risk Assessment and Mitigation
-===================================================================================================
 
 Risk assessment and mitigation are critical components of supply chain visibility. By identifying potential risks and vulnerabilities in the supply chain, businesses can implement mitigation strategies to reduce the impact of these risks on their operations. In this chapter, we will explore some of the key AI-based supply chain visibility techniques and strategies related to risk assessment and mitigation.
 

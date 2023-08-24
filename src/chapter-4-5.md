@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-=================================================================================================
 
 Regulatory and compliance data is a critical component of supply chain visibility. In this chapter, we will explore how businesses can collect and analyze regulatory and compliance data to achieve greater transparency and traceability in their supply chain operations.
 

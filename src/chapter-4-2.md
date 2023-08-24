@@ -1,5 +1,3 @@
-Product and Inventory Data
-=============================================================================================
 
 Product and inventory data is a critical component of supply chain visibility. In this chapter, we will explore how businesses can collect and analyze product and inventory data to achieve greater transparency and traceability in their supply chain operations.
 

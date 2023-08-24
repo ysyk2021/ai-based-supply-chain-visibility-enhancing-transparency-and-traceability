@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-====================================================================================================
 
 Traditional approaches to supply chain visibility have several limitations and challenges that can hinder overall supply chain performance. In this chapter, we will explore some of the key limitations and challenges of traditional approaches to supply chain visibility.
 

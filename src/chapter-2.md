@@ -1,5 +1,3 @@
-Understanding Supply Chain Visibility
-==============================================
 
 Supply chain visibility is a critical component of supply chain management. In this chapter, we will explore the concept of supply chain visibility, traditional approaches to achieving it, and the limitations and challenges associated with those approaches.
 

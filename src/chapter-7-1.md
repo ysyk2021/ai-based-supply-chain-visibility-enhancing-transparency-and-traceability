@@ -1,5 +1,3 @@
-Emerging Trends and Technologies in AI-Based Supply Chain Visibility
-===============================================================================================================
 
 AI-based supply chain visibility is a rapidly evolving field, with new trends and technologies emerging all the time. In this chapter, we will explore some of the key emerging trends and technologies in AI-based supply chain visibility, as well as the challenges that businesses may face in implementing these solutions.
 

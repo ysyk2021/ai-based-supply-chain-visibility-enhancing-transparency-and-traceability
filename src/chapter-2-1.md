@@ -1,5 +1,3 @@
-Overview of Supply Chain Visibility
-===================================================================================
 
 Supply chain visibility is the ability to track and trace goods and information as they move through the supply chain. In this chapter, we will provide an overview of supply chain visibility, its importance, and how businesses can achieve greater visibility in their supply chain operations.
 

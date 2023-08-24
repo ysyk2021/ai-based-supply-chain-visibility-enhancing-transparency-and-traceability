@@ -1,5 +1,3 @@
-Integration with Supply Chain Management Processes and Tools
-=========================================================================================================================
 
 Integrating AI-based supply chain visibility solutions with existing supply chain management processes and tools is essential for their successful implementation. In this chapter, we will explore how businesses can integrate AI-based supply chain visibility solutions with their existing processes and tools.
 

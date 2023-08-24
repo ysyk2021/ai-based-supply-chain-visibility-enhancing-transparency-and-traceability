@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Supply Chain Visibility
-======================================================================================================================
 
 Implementing AI-based supply chain visibility solutions can be a complex and challenging process. In this chapter, we will provide an overview of the steps involved in implementing these solutions.
 

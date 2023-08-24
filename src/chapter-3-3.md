@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Supply Chain Visibility
-=====================================================================================================================
 
 In recent years, artificial intelligence (AI) has been increasingly applied in supply chain management to enhance visibility, automate routine tasks, and make more informed decisions. In this chapter, we will explore some case studies on the use of AI in supply chain visibility.
 

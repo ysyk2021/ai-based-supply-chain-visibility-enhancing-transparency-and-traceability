@@ -1,5 +1,3 @@
-Logistics and Transportation Data
-====================================================================================================
 
 Logistics and transportation data is a critical component of supply chain visibility. In this chapter, we will explore how businesses can collect and analyze logistics and transportation data to achieve greater transparency and traceability in their supply chain operations.
 

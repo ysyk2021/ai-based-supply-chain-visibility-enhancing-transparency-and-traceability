@@ -1,5 +1,3 @@
-Predictive Analytics and Demand Forecasting
-================================================================================================================
 
 Predictive analytics and demand forecasting are critical components of supply chain visibility. In this chapter, we will explore how AI-based solutions can enable predictive analytics and demand forecasting to improve supply chain performance.
 

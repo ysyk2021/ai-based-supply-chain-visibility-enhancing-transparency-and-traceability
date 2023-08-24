@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-===================================================================================================
 
 Implementing AI-based supply chain visibility solutions can be expensive, which means that businesses must carefully consider their business models and cost-effectiveness before deciding to invest in these solutions. In this chapter, we will explore how businesses can ensure that their investment in AI-based supply chain visibility solutions is cost-effective.
 

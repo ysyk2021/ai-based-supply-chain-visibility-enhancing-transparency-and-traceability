@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Supply Chain Visibility
-=======================================================================================================================================
 
 Data collection and analysis are essential components of AI-based supply chain visibility solutions. To achieve transparency and traceability in the supply chain, businesses must collect and analyze data from various sources to gain insights into their operations.
 

@@ -1,5 +1,3 @@
-Employee Education and Engagement
-==============================================================================================
 
 Employee education and engagement are critical components of successful implementation of AI-based supply chain visibility solutions. In this chapter, we will explore why employee education and engagement are essential and how businesses can ensure that their employees are effectively using these solutions.
 
