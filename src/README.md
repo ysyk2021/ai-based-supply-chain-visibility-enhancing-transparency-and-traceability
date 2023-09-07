@@ -8,3 +8,7 @@ The objectives of this book are to provide an overview of AI-based supply chain 
 This book is intended for supply chain professionals, logistics managers, business leaders, and anyone interested in exploring the potential of AI-based supply chain visibility. By carefully evaluating the potential benefits and risks of AI-based solutions and proactively addressing challenges related to data quality, integration, regulatory compliance, cost-effectiveness, and ethical considerations, businesses can successfully implement and scale up AI-based supply chain visibility solutions and achieve their business objectives.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
